@@ -4,6 +4,8 @@
 
 下载地址:[腾讯翻译君(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-free-translate_v0.0.1.bobplugin)
 
+使用方法:双击安装,直接使用
+
 ### bob翻译插件大合集:
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
