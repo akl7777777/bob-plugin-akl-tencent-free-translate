@@ -1,7 +1,7 @@
 # bob-plugin-akl-tencent-translate
 
 
-下载地址:[腾讯翻译君(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-translate_v0.0.1.bobplugin)
+下载地址:[腾讯翻译君(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-free-translate_v0.0.1.bobplugin)
 
 ### bob翻译插件大合集:
 
