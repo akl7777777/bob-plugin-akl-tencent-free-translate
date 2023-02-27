@@ -22,6 +22,9 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
+使用效果图如下:
+
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/84266551/221511361-fa9bd56f-81ae-4787-b5d9-62e50ab855dd.png">
 
 
 ### 开发不易,如果喜欢可以请作者喝一杯可乐,谢谢!
