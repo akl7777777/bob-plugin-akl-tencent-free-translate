@@ -1,0 +1,12 @@
+{
+    "identifier": "com.akl.bob-plugin-akl-tencent-translate",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "desc": "初始版本",
+            "sha256": "0018c55eac112c3413adea2c4347e620eff6560a058d8b2fe8d387dfa3ef65c0",
+            "url": "https://github.com/akl7777777/bob-plugin-akl-tencent-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-translate_v0.0.1.bobplugin",
+            "minBobVersion": "0.5.0"
+        }
+    ]
+}
