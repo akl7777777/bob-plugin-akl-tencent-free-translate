@@ -2,6 +2,8 @@
 
 免秘钥腾讯翻译君bobplugin(No key Needs)
 
+bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
+
 下载地址:[腾讯翻译君(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-free-translate_v0.0.1.bobplugin)
 
 使用方法:双击安装,直接使用
