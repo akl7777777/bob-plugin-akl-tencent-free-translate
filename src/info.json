@@ -1,9 +1,9 @@
 {
   "identifier": "com.akl.bob-plugin-akl-tencent-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "category": "translate",
-  "name": "Free 腾讯翻译",
-  "summary": "腾讯翻译(免秘钥)",
+  "name": "Free 腾讯翻译君",
+  "summary": "腾讯翻译君(免秘钥)",
   "icon": "icon.png",
   "author": "akl7777777 <akl7777777@163.com>",
   "homepage": "https://github.com/akl7777777/bob-plugin-akl-tencent-translate",
@@ -17,11 +17,11 @@
       "defaultValue": "akl7777777",
       "menuValues": [
         {
-          "title": "需要账号密码登录",
+          "title": "无需秘钥",
           "value": "akl7777777"
         }
       ],
-      "desc": "腾讯翻译(免秘钥)"
+      "desc": "腾讯翻译君(免秘钥)"
     }
   ]
 }

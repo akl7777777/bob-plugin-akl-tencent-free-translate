@@ -121,12 +121,26 @@ function translate(query, completion) {
             throw err;
         }
         const source_lang = sourceLanguage || 'en';
-        const target_lang = targetLanguage || 'zh';
+        let target_lang = targetLanguage || 'zh';
+        // 腾讯翻译君无法进行目标语言自动检测，所以需要手动指定
+        if (target_lang === 'auto') {
+            target_lang = 'zh'
+        }
         const translate_text = query.text || '';
         if (translate_text !== '') {
             try {
+                // 无法进行同语言翻译,会报错,所以判断后直接返回原文
+                if (source_lang === target_lang) {
+                    completion({
+                        result: {
+                            from: query.detectFrom,
+                            to: query.detectTo,
+                            toParagraphs: translate_text.split('\n'),
+                        },
+                    });
+                }
                 const transResponse = await __translate(source_lang, target_lang, translate_text)
-                if (transResponse.data && transResponse.data.targetText ) {
+                if (transResponse.data && transResponse.data.targetText) {
                     completion({
                         result: {
                             from: query.detectFrom,
