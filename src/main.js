@@ -83,11 +83,11 @@ async function __translate(source, target, sourceText) {
                 "Referer": "https://servicewechat.com/wxb1070eabc6f9107e/117/page-frame.html"
             },
             body: {
-                "source": source,
-                "target": target,
+                "source": 'auto',
+                "target": 'auto',
                 "sourceText": sourceText,
                 "platform": "WeChat_APP",
-                "candidateLangs": 'zh|en',
+                "candidateLangs": source + '|' + target,
                 "guid": "oqdgX0SIwhvM0TmqzTHghWBvfk22"
             }
         });
