@@ -1,4 +1,4 @@
-# bob-plugin-akl-tencent-translate
+# bob-plugin-akl-tencent-free-translate
 
 免秘钥腾讯翻译君bobplugin(No key Needs)
 
