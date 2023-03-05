@@ -2,6 +2,13 @@
   "identifier": "com.akl.bob-plugin-akl-tencent-translate",
   "versions": [
     {
+      "version": "0.0.2",
+      "desc": "修复日语翻译中文时不能自动指定的bug;修复目标语言和源语言为同类时报错的bug",
+      "sha256": "a580096c9980982a271fb3fd25cb9605fbe0655a5b14a012874c14ed473277f8",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v0.0.2/bob-plugin-akl-tencent-free-translate_v0.0.2.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.1",
       "desc": "初始版本",
       "sha256": "f408c0586a0bff595015ac8f6c6844f04cd7384eccca6943f3cd0ba74e0f3dec",
