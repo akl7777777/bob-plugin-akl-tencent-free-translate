@@ -1,10 +1,10 @@
 {
   "identifier": "com.akl.bob-plugin-akl-tencent-free-translate",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "category": "translate",
   "name": "Free 腾讯翻译君",
   "summary": "腾讯翻译君(免秘钥)",
-  "icon": "icon.png",
+  "icon": "107",
   "author": "akl7777777 <akl7777777@163.com>",
   "homepage": "https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate",
   "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-tencent-free-translate/main/appcast.json",
