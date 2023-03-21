@@ -2,6 +2,13 @@
   "identifier": "com.akl.bob-plugin-akl-tencent-free-translate",
   "versions": [
     {
+      "version": "0.0.7",
+      "desc": "插件性能优化",
+      "sha256": "f07e65e879823019ba7b3e6fe6b7a9145fa3a31c42742acdea9f0cd2233c1ad0",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v0.0.7/bob-plugin-akl-tencent-free-translate_v0.0.7.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.6",
       "desc": "修改图标为bob官方资源",
       "sha256": "0c5c9415e7420fba595cb148b346d9f2c8bf2d1c4d44c240775a20bc9927e4e2",
